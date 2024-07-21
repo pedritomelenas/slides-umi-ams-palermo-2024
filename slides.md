@@ -303,6 +303,37 @@ idempotents in gray
 </figure>
 
 </div>
+
+---
+
+# The other (unsolved) poset isomorphism
+
+If $S$ and $T$ are numerical semigroups such that the poset $(\mathcal{I}_0(S),\preceq)$ is isomorphic to $(\mathcal{I}_0(T),\preceq)$,<br> can we ensure that  $S=T$?
+
+
+<div class="absolute left-35% top-25%">
+
+<figure>
+
+
+<img src="/37-dotm.svg" alt="ov-3-7" width="50%">
+
+
+<figcaption>
+
+<p style="font-size:0.75em">
+
+Hasse diagram of $\mathcal{I}_0(\langle 3,7\rangle)$<br> 
+Solved for multiplicity three  <span style="color:green"> &check;</span>
+</p>
+
+</figcaption>
+
+</figure>
+
+</div>
+
+
 ---
 
 # Ongoing problems
@@ -520,7 +551,7 @@ Let $S$ be a numerical semigroup and denote by $\mathcal{O}(S)$ the set of overs
 
 - Determine when $\preceq$ equals $\subseteq$ in $\mathcal{I}_0(S)$ <span style="color:green"> &check;</span> 
 
-- Determine when $(\mathcal{I}_0(S),\preceq)$ is a lattice <span style="color:green"> &check;</span> 
+- Determine when $(\mathcal{I}_0(S),\preceq)$ is a lattice <span style="color:orange"> &check;</span> 
 
 
 All these properties hold when the multiplicity of $S$ is small
